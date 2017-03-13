@@ -2,4 +2,9 @@ Carlos Vicente
 Pijama
 Bufanda
 Pantalones
+<<<<<<< HEAD
 Camisetas
+=======
+Camisetas
+Bañador
+>>>>>>> opcionales
